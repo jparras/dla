@@ -23,5 +23,5 @@ To train your own weights:
 $ python run_all_experiments.py
 ```
 
-Note that training your own weights may take several hours, depending on the configuration of your computer and the number of threads that you set in the script `run_all_experiments.py` (1 by default).
+Note that training your own weights may take several hours, depending on the configuration of your computer and the number of threads that you set in the script `run_all_experiments.py` (the code uses a single thread by default).
 
