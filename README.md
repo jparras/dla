@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Code used to obtain the DLA (Deep Learning Attacker) architecture.
+Code used to obtain the DLA (Deep Learning Attacker) architecture. The paper was published as Parras, J., Hüttenrauch, M., Zazo, S., & Neumann, G. (2021). Deep Reinforcement Learning for Attacking Wireless Sensor Networks. Sensors, 21(12), 4060. [DOI](https://doi.org/10.3390/s21124060).
 
 ## Launch
 
